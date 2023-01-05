@@ -1563,7 +1563,7 @@
     (property "Reference" "R3" (id 0) (at 81.28 123.19 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "39.2,1%" (id 1) (at 81.28 125.73 0)
+    (property "Value" "39.2k,1%" (id 1) (at 81.28 125.73 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_SMD:R_0201_0603Metric" (id 2) (at 79.756 124.714 90)

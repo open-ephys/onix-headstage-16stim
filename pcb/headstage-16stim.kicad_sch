@@ -2827,7 +2827,7 @@
       (reference "R2") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0201_0603Metric")
     )
     (path "/6a107470-4fd1-4a6d-84fa-4453722c41a9/a20bf941-be10-4b9f-bf67-16c9e833102b"
-      (reference "R3") (unit 1) (value "39.2,1%") (footprint "Resistor_SMD:R_0201_0603Metric")
+      (reference "R3") (unit 1) (value "39.2k,1%") (footprint "Resistor_SMD:R_0201_0603Metric")
     )
     (path "/6a107470-4fd1-4a6d-84fa-4453722c41a9/66966924-f4e3-42e3-b604-4f625989070c"
       (reference "R4") (unit 1) (value "78.7k,1%") (footprint "Resistor_SMD:R_0201_0603Metric")
